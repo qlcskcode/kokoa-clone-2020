@@ -1,3 +1,3 @@
 #Kokoa Clone 2020 update
 
-css got so much better
+Html & CC are so much better!
